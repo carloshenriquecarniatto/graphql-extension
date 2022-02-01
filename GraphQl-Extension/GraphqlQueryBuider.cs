@@ -19,8 +19,8 @@ namespace GraphQL_Extension
 
         [Theory]
         [InlineData("","")]
-        [InlineData("","GenerateTokenFromPNO")]
-        [InlineData("tokenGeneratorQuery","")]
+        [InlineData("","peoplesByGender")]
+        [InlineData("testQuery","")]
         public void When_operation_or_alias_is_empty_throw_expection_argument_exception(string operation,string alias)
         {  
             Action querytest = () =>
@@ -38,8 +38,8 @@ namespace GraphQL_Extension
         }
         [Theory]
         [InlineData(null,null)]
-        [InlineData(null,"GenerateTokenFromPNO")]
-        [InlineData("tokenGeneratorQuery",null)]
+        [InlineData(null,"GererateTestQuery")]
+        [InlineData("testQuery",null)]
         public void When_operation_or_alias_is_null_throw_expection_argument_null_exception(string operation,string alias)
         {
             Action querytest = () =>
@@ -57,7 +57,7 @@ namespace GraphQL_Extension
         }
 
         [Theory]
-        [InlineData("tokenGeneratorQuery","GenerateTokenFromPNO")]
+        [InlineData("Test1","peoplesByGender")]
         public void Gived_a_complex_parameters_model(string alias,string operation)
         {
             var queryArguments = new ComplexModelParameters("Jakson", 10);
