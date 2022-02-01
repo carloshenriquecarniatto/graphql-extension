@@ -1,0 +1,14 @@
+/Users/carloshcarniatto/RiderProjects/GraphQL-Extension/GraphQL-Extension/bin/Debug/netcoreapp2.1/xunit.runner.visualstudio.dotnetcore.testadapter.dll
+/Users/carloshcarniatto/RiderProjects/GraphQL-Extension/GraphQL-Extension/bin/Debug/netcoreapp2.1/xunit.runner.reporters.netcoreapp10.dll
+/Users/carloshcarniatto/RiderProjects/GraphQL-Extension/GraphQL-Extension/bin/Debug/netcoreapp2.1/xunit.runner.utility.netcoreapp10.dll
+/Users/carloshcarniatto/RiderProjects/GraphQL-Extension/GraphQL-Extension/bin/Debug/netcoreapp2.1/GraphQL-Extension.deps.json
+/Users/carloshcarniatto/RiderProjects/GraphQL-Extension/GraphQL-Extension/bin/Debug/netcoreapp2.1/GraphQL-Extension.runtimeconfig.json
+/Users/carloshcarniatto/RiderProjects/GraphQL-Extension/GraphQL-Extension/bin/Debug/netcoreapp2.1/GraphQL-Extension.runtimeconfig.dev.json
+/Users/carloshcarniatto/RiderProjects/GraphQL-Extension/GraphQL-Extension/bin/Debug/netcoreapp2.1/GraphQL-Extension.dll
+/Users/carloshcarniatto/RiderProjects/GraphQL-Extension/GraphQL-Extension/bin/Debug/netcoreapp2.1/GraphQL-Extension.pdb
+/Users/carloshcarniatto/RiderProjects/GraphQL-Extension/GraphQL-Extension/obj/Debug/netcoreapp2.1/GraphQL-Extension.csprojAssemblyReference.cache
+/Users/carloshcarniatto/RiderProjects/GraphQL-Extension/GraphQL-Extension/obj/Debug/netcoreapp2.1/GraphQL-Extension.csproj.CoreCompileInputs.cache
+/Users/carloshcarniatto/RiderProjects/GraphQL-Extension/GraphQL-Extension/obj/Debug/netcoreapp2.1/GraphQL-Extension.AssemblyInfoInputs.cache
+/Users/carloshcarniatto/RiderProjects/GraphQL-Extension/GraphQL-Extension/obj/Debug/netcoreapp2.1/GraphQL-Extension.AssemblyInfo.cs
+/Users/carloshcarniatto/RiderProjects/GraphQL-Extension/GraphQL-Extension/obj/Debug/netcoreapp2.1/GraphQL-Extension.dll
+/Users/carloshcarniatto/RiderProjects/GraphQL-Extension/GraphQL-Extension/obj/Debug/netcoreapp2.1/GraphQL-Extension.pdb

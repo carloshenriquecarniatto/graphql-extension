@@ -1,0 +1,27 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+    <PropertyGroup>
+        <TargetFramework>netcoreapp2.1</TargetFramework>
+        <RootNamespace>GraphQl-Extension</RootNamespace>
+
+        <IsPackable>false</IsPackable>
+
+        <AssemblyName>GraphQl-Extension</AssemblyName>
+    </PropertyGroup>
+
+    <ItemGroup>
+        <PackageReference Include="GraphQL.Client" Version="4.0.2" />
+        <PackageReference Include="GraphQL.Client.Serializer.Newtonsoft" Version="4.0.2" />
+        <PackageReference Include="GraphQL.Query.Builder" Version="1.2.1" />
+        <PackageReference Include="GraphQlClientGenerator" Version="0.9.7" />
+        <PackageReference Include="Microsoft.NET.Test.Sdk" Version="15.9.0" />
+        <PackageReference Include="xunit" Version="2.4.0" />
+        <PackageReference Include="xunit.runner.visualstudio" Version="2.4.0" />
+    </ItemGroup>
+
+    <ItemGroup>
+      <Compile Remove="models\aaa.cs" />
+      <Compile Remove="models\Helper.cs" />
+    </ItemGroup>
+
+</Project>

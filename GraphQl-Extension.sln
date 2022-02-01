@@ -1,0 +1,16 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GraphQL-Extension", "GraphQL-Extension\GraphQL-Extension.csproj", "{5D41ED43-C4DD-4345-9195-40EADAC89FFE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5D41ED43-C4DD-4345-9195-40EADAC89FFE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5D41ED43-C4DD-4345-9195-40EADAC89FFE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5D41ED43-C4DD-4345-9195-40EADAC89FFE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5D41ED43-C4DD-4345-9195-40EADAC89FFE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
